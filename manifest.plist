@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/display05/qlyl/blob/master/app_icon.png</string>
+					<string>http://qp.njkd1070.com/app/app_icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/display05/qlyl/blob/master/app_icon.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
