@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>https://github.com/display05/qlyl/blob/master/app_icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>https://github.com/display05/qlyl/blob/master/app_icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SolarSoft.SolarWallet</string>
+				<string>com.qp.QiLinXiuXianYuLe</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>麒麟休闲娱乐</string>
+				<string>QiLinXiuXianYuLe</string>
 			</dict>
 		</dict>
 	</array>
