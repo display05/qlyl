@@ -1,7 +1,7 @@
 var http = require('http');
 var fs = require('fs');
 var url = require('url');
-var port = 80;
+var port = 8081;
 
 function hasSuffix(str,suffix) {
  return str.indexOf(suffix,this.length - suffix.length)!==-1;
